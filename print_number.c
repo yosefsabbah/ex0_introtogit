@@ -5,6 +5,7 @@ int main() {
 	for(int i = 5; i >= 0; i--) {
 		printf("%d", course_number[i]);
 	}
+
 	printf("\n");
 	return 0;
 }
